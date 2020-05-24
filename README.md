@@ -24,21 +24,21 @@ Changed Title from “title” to “Horiseon”
 
 Fixed broken link for search optimization button
 
-Changed div to semantic <header>
+Changed div to semantic header
 
-Changed div to semantic <nav>
+Changed div to semantic nav
 
-Replaced divs with <section> semantic
+Replaced divs with section semantic
 
 Added spacing to look less cluttered
 
 Added alt ids for images that were explainable via text
 
-Replaced divs with <aside> semantic
+Replaced divs with aside semantic
 
-Replaced div with <footer> semantic
+Replaced div with footer semantic
 
-Replaced divs with <article> semantic
+Replaced divs with article semantic
 
 Added alt to aside images
 
