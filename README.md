@@ -4,6 +4,8 @@ Horiseon
 
     This project is meant to refactor the HTML and CSS of Horiseon's web page/application
 
+    [screencapture-jesusnboone-github-io-horiseon-2020-05-23-23_12_47.pdf](https://github.com/jesusnboone/horiseon/files/4672938/screencapture-jesusnboone-github-io-horiseon-2020-05-23-23_12_47.pdf)
+
 Getting Started
 
     You can find this site published on : https://jesusnboone.github.io/horiseon/
